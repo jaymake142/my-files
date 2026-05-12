@@ -29,7 +29,7 @@
 
             <!-- 第二个视频（你需要复制这一段，并修改文件名） -->
             <li>
-                <a href="video1.mp4" download>
+                <a href="video2.mp4" download>
                     📥 点击下载视频 2
                 </a>
             </li>
